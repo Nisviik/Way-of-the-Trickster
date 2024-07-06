@@ -1,0 +1,42 @@
+{
+  "id": "way-of-the-trickster-compendium",
+  "title": "Way of the Trickster",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "Includes the Trickster archetype, the trickster witch patron, school of the trickster wizard school, some new spells and magic items from the Way of the Trickster expansion for pf2e.",
+  "authors": [
+    {
+      "name": "Nisviik",
+      "email": "nisviik.homebrew@gmail.com",
+      "discord": "nisviik",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "way-of-the-trickster-compendium",
+      "label": "Way of the Trickster Compendium",
+      "path": "packs/way-of-the-trickster-compendium",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "way-of-the-trickster-journal",
+      "label": "Way of the Trickster Journal",
+      "path": "packs/way-of-the-trickster-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
