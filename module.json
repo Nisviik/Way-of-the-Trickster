@@ -19,7 +19,7 @@
     {
       "name": "way-of-the-trickster-compendium",
       "label": "Way of the Trickster Compendium",
-      "path": "packs/way-of-the-trickster-compendium",
+      "path": "./packs/way-of-the-trickster-compendium",
       "type": "Item",
       "system": "pf2e",
       "ownership": {
@@ -30,7 +30,7 @@
     {
       "name": "way-of-the-trickster-journal",
       "label": "Way of the Trickster Journal",
-      "path": "packs/way-of-the-trickster-journal",
+      "path": "./packs/way-of-the-trickster-journal",
       "type": "JournalEntry",
       "system": "pf2e",
       "ownership": {
