@@ -38,5 +38,7 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "manifest":"https://raw.githubusercontent.com/Nisviik/Way-of-the-Trickster/main/module.json",
+  "download":"https://github.com/Nisviik/Way-of-the-Trickster/raw/main/way-of-the-trickster.zip"
 }
