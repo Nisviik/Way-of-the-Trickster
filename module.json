@@ -1,5 +1,5 @@
 {
-  "id": "way-of-the-trickster-compendium",
+  "id": "way-of-the-trickster",
   "title": "Way of the Trickster",
   "version": "1.0.0",
   "compatibility": {
@@ -40,5 +40,5 @@
     }
   ],
   "manifest":"https://raw.githubusercontent.com/Nisviik/Way-of-the-Trickster/main/module.json",
-  "download":"https://github.com/Nisviik/Way-of-the-Trickster/archive/refs/tags/v0.2.zip"
+  "download":"https://github.com/Nisviik/Way-of-the-Trickster/archive/refs/tags/v1.0.zip"
 }
